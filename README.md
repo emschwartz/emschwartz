@@ -19,7 +19,7 @@ I came up with the initial idea for Autometrics while working at [Fiberplane](ht
 
 #### Autometrics Blog Posts
 
-- [The Case for Function-Level Metrics: An observability sweet spot that balances debuggability, cost, and ease of use](https://fiberplane.com/blog/the-case-for-function-level-metrics)
+- [The Case for Function-Level Metrics: An observability sweet spot that balances debuggability, cost, and ease of use (Apr 12, 2023)](https://fiberplane.com/blog/the-case-for-function-level-metrics)
 - [autometrics-rs 0.3: Defining Service-Level Objectives (SLOs) in Rust Source Code (Mar 22, 2023)](https://fiberplane.com/blog/autometrics-rs-0-3-defining-service-level-objectives-in-rust-source-code)
 - [An adventure with SLOs, generic Prometheus alerting rules, and complex PromQL queries (Mar 16, 2023)](https://fiberplane.com/blog/an-adventure-with-slos-generic-prometheus-alerting-rules-and-complex-promql-queries)
 
