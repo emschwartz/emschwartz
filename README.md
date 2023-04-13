@@ -17,6 +17,9 @@ Outside of this, I spend time [reading](#reading) about political economy (among
 
 I came up with the initial idea for Autometrics while working at [Fiberplane](https://fiberplane.com) on how to make observability more accessible and appealing to developers. I built the first implementation in Rust ([autometrics-rs](https://github.com/autometrics-dev/autometrics-rs)) and have been collaborating with other developers inside and outside of the company to develop the concept further and create libraries in different programming languages.
 
+#### Autometrics Videos
+- [Introducing Autometrics (Apr 12, 2023)](https://youtu.be/Slnjt1TPDBo)
+
 #### Autometrics Blog Posts
 
 - [The Case for Function-Level Metrics: An observability sweet spot that balances debuggability, cost, and ease of use (Apr 12, 2023)](https://fiberplane.com/blog/the-case-for-function-level-metrics)
