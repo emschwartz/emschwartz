@@ -22,6 +22,7 @@ I came up with the initial idea for Autometrics while working at [Fiberplane](ht
 
 #### Autometrics Blog Posts
 
+- [autometrics-rs 0.5: Automatically connecting Prometheus metrics to traces](https://fiberplane.com/blog/autometrics-rs-0-5-automatically-connecting-prometheus-metrics-to-traces)
 - [autometrics-rs 0.4: Spot Commits That Introduce Errors or Slow Down Your Application](https://fiberplane.com/blog/autometrics-rs-0-4-spot-commits-that-introduce-errors-or-slow-down-your-application)
 - [Autometrics: a developer-first observability framework that writes queries for you (Apr 13, 2023)](https://fiberplane.com/blog/autometrics-a-developer-first-observability-framework-that-writes-queries-for-you)
 - [The Case for Function-Level Metrics: An observability sweet spot that balances debuggability, cost, and ease of use (Apr 12, 2023)](https://fiberplane.com/blog/the-case-for-function-level-metrics)
