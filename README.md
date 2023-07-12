@@ -23,6 +23,7 @@ I came up with the initial idea for Autometrics while working at [Fiberplane](ht
 #### Autometrics Blog Posts
 
 - [When can you add Prometheus labels without increasing cardinality? (Jul 12, 2023)](https://fiberplane.com/blog/when-can-you-add-prometheus-labels-without-increasing-cardinality)
+- [Inside some complex Prometheus queries (Jul 5, 2023)](https://fiberplane.com/blog/inside-some-complex-prometheus-queries)
 - [Why are Prometheus queries hard? (Jul 4, 2023)](https://fiberplane.com/blog/why-are-prometheus-queries-hard)
 - [autometrics-rs 0.5: Automatically connecting Prometheus metrics to traces (Jun 21, 2023)](https://fiberplane.com/blog/autometrics-rs-0-5-automatically-connecting-prometheus-metrics-to-traces)
 - [autometrics-rs 0.4: Spot Commits That Introduce Errors or Slow Down Your Application (Apr 27, 2023)](https://fiberplane.com/blog/autometrics-rs-0-4-spot-commits-that-introduce-errors-or-slow-down-your-application)
